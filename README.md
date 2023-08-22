@@ -1,2 +1,1 @@
-# test_autothon_siemens_2023
-test_autothon_siemens_2023
+# testng-sample
